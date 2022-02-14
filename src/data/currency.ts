@@ -1,0 +1,1 @@
+export const currencyOptions = ['USD', 'RUB', 'EUR', 'UZS', 'CNY', 'JPY', 'KZT', 'TJS']
